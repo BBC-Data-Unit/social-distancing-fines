@@ -16,8 +16,10 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 * My Welshpool: [Local police issue 123 Covid-19 fines](http://www.mywelshpool.co.uk/viewernews/ArticleId/18595) *16 April 2020*
 * Andover Advertiser: [Police issue 103 fines for social distancing rule breaches in Hampshire](https://www.andoveradvertiser.co.uk/news/18385197.police-issue-103-fines-social-distancing-rule-breaches-hampshire/) *16 April 2020*
+* Yorkshire Evening Post: [These are the places in England where the most social distancing fines have been issued](https://www.yorkshireeveningpost.co.uk/read-this/these-are-the-places-in-england-where-the-most-social-distancing-fines-have-been-issued-2540842) *16 April 2020*
 * Wales Online: [Map shows where police have handed out most fines for lockdown breaches](https://www.walesonline.co.uk/news/uk-news/map-shows-police-handed-out-18104969) *17 April 2020*
-* Gloucestershire Live: [Heat map shows where Covid-19 fines have been handed out by police](https://www.gloucestershirelive.co.uk/news/cheltenham-news/coronavirus-live-updates-gloucestershire-uk-4053624) *17 April 2020*
+* Gloucestershire Live: [Heat map shows where Covid-19 fines have been handed out by police](https://www.gloucestershirelive.co.uk/news/cheltenham-news/coronavirus-live-updates-gloucestershire-uk-4053624) *17 April 2020
+* Bracknell News: [Social distancing fines: Here are the places in England where the most have been issued](https://www.bracknellnews.co.uk/news/18389347.social-distancing-fines-places-england-issued/) *18 April 2020*
 
 ## Get the data 
 
